@@ -10,7 +10,7 @@
 - 💬 Ask me about Blockchain dev & open source
 - 😄 
 
-TECH STACK
+### TECH STACK
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
