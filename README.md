@@ -2,7 +2,7 @@
 
 
 
-- 👀 I am Ashok, working as an Application Development on Full Stack Blockchain
+- 👀 I am Ashok, working on Application Development in Full Stack Blockchain
 - 💻 I’m a full stack Blockchain developer and a content writer  
 - 🎓 I graduated in Bachelor of Technology
 - 🌱 I’m currently learning Advance concepts on Blockchain and DEvops
