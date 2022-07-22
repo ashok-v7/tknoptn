@@ -6,7 +6,7 @@
 - 💻 I’m a full stack Blockchain developer and a content writer  
 - 🎓 I graduated in Bachelor of Technology
 - 🌱 I’m currently learning Advance concepts on Blockchain and Devops
-- 💞️ Interests: Listening Music, creating content, browsing and exploring new things and adeventure trips
+- 💞️ Interests: Listening Music, creating content,  exploring new things making notes of it and going out for adeventure trips
 - 💬 Ask me about Blockchain dev & open source
 - 😄 
 
