@@ -2,8 +2,8 @@
 
 
 
-- 👀 I am Ashok, working on Application Development in Full Stack Blockchain
-- 💻 I’m a full stack Blockchain developer and a content writer  
+- 👀 I am Ashok, working on Blockchain Application Development and I love building web3 projects that solve life's unique problems.
+- 💻 Iam a content writer @ https://block360.hashnode.dev
 - 🎓 I graduated in Bachelor of Technology
 - 🌱 I’m currently learning Advance concepts on Blockchain and Devops
 - 🌱  I often write a blog to share my learnings with the community
