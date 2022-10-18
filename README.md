@@ -2,7 +2,7 @@
 
 
 
-- 👀 I am Ashok working on Blockchain Application Development and I love building web3 projects that solve life's unique problems.
+- 👀 I am Ashok works on Golang and blockchain  and I love building web3 projects that solve life's unique problems.
 - 💻 Iam a content writer @ https://block360.hashnode.dev
 - 🎓 I graduated in Bachelor of Technology
 - 🌱 I’m currently learning Advance concepts on Blockchain and Devops and GoLang
