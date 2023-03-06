@@ -1,13 +1,12 @@
  ### Hi there 👋
 
 
-
 - 👀 I am Ashok works on Golang and blockchain  and I love building web3 projects that solve life's unique problems.
-- 💻 Iam a content writer and do write my interesting stuff @ https://block360.hashnode.dev
-- 🎓 I graduated in Bachelor of Technology
 - 🌱 Cerified in Blockchain Development from CDAC,IIT-M and a T-shaped learner with a focus on Fullstack Blockchain.
 - 🌱 Participated in NPCI Blockchain Hackathon 2022 and included in top 15 of Phase 1 which was hosted by National Payments Corporation Of India (NPCI) 
      powered by Inter Institutional Inclusive Innovations Center - i4C
+- 🎓 I graduated in Bachelor of Technology
+- 💻 Iam a content writer and do write my interesting stuff @ https://block360.hashnode.dev
 - 🌱  I often write a blog to share my learnings with the community 
 - 💞️ Interests: Listening Music, creating content,  exploring new things (making notes) and going out for adeventure trips
 - 💬 Ask me about Blockchain dev & open source
