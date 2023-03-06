@@ -3,10 +3,10 @@
 
 
 - 👀 I am Ashok works on Golang and blockchain  and I love building web3 projects that solve life's unique problems.
-- 💻 Iam a content writer @ https://block360.hashnode.dev
+- 💻 Iam a content writer and do write my interesting stuff @ https://block360.hashnode.dev
 - 🎓 I graduated in Bachelor of Technology
-- 🌱 I’m currently learning Advance concepts on Blockchain , GoLang
-- 🌱  I often write a blog to share my learnings with the community
+- 🌱 Cerified in Blockchain Development from CDAC,IIT-M and a constant learner to improve the things with a focus on Fullstack Blockchain
+- 🌱  I often write a blog to share my learnings with the community 
 - 💞️ Interests: Listening Music, creating content,  exploring new things (making notes) and going out for adeventure trips
 - 💬 Ask me about Blockchain dev & open source
 - 😄 
