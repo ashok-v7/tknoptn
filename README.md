@@ -28,4 +28,14 @@
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ashokvanga1)
  
+## Path to Mastery
 
+1. Begin
+2. Encounter setbacks
+3. Experience more setbacks
+4. Learn from failures
+5. Iterate
+6. Advance
+7. Win
+
+Trick: Don't stop at point 3
