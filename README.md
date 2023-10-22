@@ -13,9 +13,9 @@
 
 ### Tech Stack
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=pyspark&logoColor=white)
+![Go](https://img.shields.io/badge/pyspark-%2300ADD8.svg?style=for-the-badge&logo=pyspark&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/python-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=golang&logoColor=white)
+![Solidity](https://img.shields.io/badge/golang-%23363636.svg?style=for-the-badge&logo=golang&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
  
