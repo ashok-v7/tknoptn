@@ -8,7 +8,7 @@
 - 🎓 I graduated in Bachelor of Technology
 - 🌱  I often write a blog to share my learnings with the community 
 - 💞️ Interests: Listening Music, creating content,  exploring new things (making notes) and going out for adeventure trips
-- 💬 Ask me about Gen AI,  Blockchain dev & open source
+
 - 😄 
 
 ### Tech Stack
